@@ -1,3 +1,4 @@
+![machine-learning-healthcare-blog-hero](https://github.com/sehaj003/Disease-Prediction-NLP/assets/154620160/f1081f8a-3382-4468-855c-ec02653d1c45)
 # Disease-Prediction-NLP
 Disease prediction based on drug reviews.
 
